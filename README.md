@@ -1,25 +1,27 @@
-### Sou um jovem autodidata que busca aprender e aperfeiçoar seu conhecimento e habilidades técnicas acerca do universo da programação.
+<div align="center" width="100%">
+  
+  <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/b92a8665-a892-4c15-bb07-68d74101bc54" />
+
+  <br>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BA1A&center=true&vCenter=true&width=435&lines=Learning;You+don't+have+enemies)](https://git.io/typing-svg)
+
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-ribeirosantos)
+
+
+
+---
 
 <br>
 
 <div>
-  <a href="https://github.com/Rafael-RibeiroSantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-RibeiroSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-RibeiroSantos&layout=compact&theme=tokyonight"/>
-
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=c9a84c)
+  ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=c9a84c)
+  ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=c9a84c)
+  ![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=c9a84c)
 </div>
  
  <br>
  
-  ### Minhas redes sociais abaixo!
- 
-<div> 
-    <a href="https://instagram.com/rafaelrbsts" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-     <a href="https://linkedin.com/in/rafael-ribeirosantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  </div> 
+</div>
