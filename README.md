@@ -9,8 +9,6 @@
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-ribeirosantos)
   [![Portfolio](https://img.shields.io/badge/Portfolio-rafaelrbsts?style=for-the-badge&color=black)](https://rafaelrbsts.github.io/My-Portfolio/)
 
-
-
 ---
 
 <br>
